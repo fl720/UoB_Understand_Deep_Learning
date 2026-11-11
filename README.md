@@ -6,3 +6,4 @@ This folder "understand_DL" contains tutorial sheets related to the course.
 - Week 2 focus on the Deep network
 - Week 4 we focused on loss function by implementing SoftMax and Sigmoid's **likelihood**(as well as negative log likelihood), **probability distribution** to see how to fit the best solution for regression.
 - week 5 we examined and write a few learning rate functions: **Gradient Descent**, **Stochastic Gradient Descent(SGD)**, **Momentum**, **ADAM**.
+- week 7 we looked at the back propagation. We looked at the gradient of it and effect of initialization.
